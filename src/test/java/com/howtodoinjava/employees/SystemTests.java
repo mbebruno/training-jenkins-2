@@ -11,7 +11,7 @@ import com.howtodoinjava.employees.model.Employee;
 
 public class SystemTests {
 
-	@Test
+	/*@Test
 	public void testCreateReadDelete() {
 		RestTemplate restTemplate = new RestTemplate();
 
@@ -39,6 +39,6 @@ public class SystemTests {
 		} catch (HttpClientErrorException e) {
 			//Assertions.assertThat(403).isEqualTo(HttpStatus.BAD_REQUEST);
 		}
-	}
+	}*/
 
 }
